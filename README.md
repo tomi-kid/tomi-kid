@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Git, Github, HTML, CSS, C, Python, Emacs, VI and Linux , Virtualization**
 
-- 📫 How to reach me *@@linkedin.com/in/tomas-ketema**
+- 📫 How to reach me** http://linkedin.com/in/tomas-ketema**
 
 
 - ⚡ Fun fact **I love codes so much that if you talk to me about code; you win my heart.**
