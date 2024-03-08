@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m Graduated in **Computer Science**
 
-- 🔭 I’m currently enrolled in **ALX SOFTWARE ENGINEERING PROGRAM**
+- 🔭 I’m Graduated in **ALX SOFTWARE ENGINEERING PROGRAM**
 
 - 🌱 I’m currently learning **C Programming, HTML/CSS, Linux and Git**
 
 - 👯 I’m looking to collaborate with **other great Software Engineers**
 
-- 💬 Ask me about **Git, Github, HTML, CSS, C, Python, Emacs, VI and Linux , Virtualization**
+- 💬 Ask me about **Git, Github, HTML, CSS, C, Python, Emacs, VI and Linux ,Vue,Graphql, Virtualization**
 
 - 📫 How to reach me** http://linkedin.com/in/tomas-ketema**
 
