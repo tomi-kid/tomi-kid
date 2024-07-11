@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Git, Github, HTML, CSS, C, Python, Emacs, VI and Linux ,Vue,Graphql, Virtualization**
 
 - 📫 How to reach me** http://linkedin.com/in/tomas-ketema**
+- portfolio **https://tomasketema.vercel.app/**
+- Gitlab **https://gitlab.com/tomiketema209**
 
 
 - ⚡ Fun fact **I love codes so much that if you talk to me about code; you win my heart.**
