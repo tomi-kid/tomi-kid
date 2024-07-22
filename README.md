@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me** http://linkedin.com/in/tomas-ketema**
 - portfolio **https://tomasketema.vercel.app/**
-- Gitlab **https://gitlab.com/tomiketema209**
+- Gitlab **[https://gitlab.com/tomasketema](https://gitlab.com/tomasketema)**
 
 
 - ⚡ Fun fact **I love codes so much that if you talk to me about code; you win my heart.**
