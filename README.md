@@ -41,10 +41,6 @@ Here are some ideas to get you started:
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomi-kid&show_icons=true&locale=en&layout=compact" alt="tomi-kid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomi-kid&" alt="tomi-kid" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomi-kid&show_icons=true&locale=en" alt="tomi-kid" /></p>
 
 
