@@ -14,21 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">Hi there 👋, I'm Tomas Ketema</h2>
-<h5 align="center">I AM SOFTWARE ENGINEER</h5>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomi-kid&label=Profile%20views&color=0e75b6&style=flat" alt="tomi-kid" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomi-kid" alt="tomi-kid" /></a> </p>
-
-- 🔭 I’m Graduated in **Computer Science**
-
-- 🔭 I’m Graduated in **ALX SOFTWARE ENGINEERING PROGRAM**
-
-- 🌱 I’m currently learning **C Programming, HTML/CSS, Linux and Git**
-
-- 👯 I’m looking to collaborate with **other great Software Engineers**
-
-- 💬 Ask me about **Git, Github, HTML, CSS, C, Python, Emacs, VI and Linux ,Vue,Graphql, Virtualization**
 
 - 📫 How to reach me** http://linkedin.com/in/tomas-ketema**
 - portfolio **https://tomasketema.vercel.app/**
